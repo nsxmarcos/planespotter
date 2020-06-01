@@ -14,7 +14,8 @@
           "/infra/domains/default/groups/Shared_Services"
         ],
         "services": [
-          "/infra/services/CIM-HTTP"
+          "/infra/services/HTTP"
+	  "/infra/services/CIM-HTTP"
         ],
         "action": "ALLOW"
       }
